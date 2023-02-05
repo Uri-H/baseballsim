@@ -1,1 +1,1 @@
-# baseballsim
+Runs a simulation of a baseball game. Uses a few possible hit outcomes and predefined results based on where runners are on base. Odds of each at-bat outcome are from the averages of a recent MLB season.
